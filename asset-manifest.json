@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d29024d1.css",
+    "main.js": "/static/js/main.2e31e482.js",
+    "static/js/453.f35c0049.chunk.js": "/static/js/453.f35c0049.chunk.js",
+    "static/media/whoweare1.jpg": "/static/media/whoweare1.4271fdc1266c1a607361.jpg",
+    "static/media/slider2.gif": "/static/media/slider2.934e07ad5110fa81c2ba.gif",
+    "static/media/moving-koi-fish.gif": "/static/media/moving-koi-fish.72c8f39adef3bca60ba6.gif",
+    "static/media/fish.gif": "/static/media/fish.8185f1933761e4facfb9.gif",
+    "static/media/loading.gif": "/static/media/loading.a50416f4cccc2397278a.gif",
+    "static/media/whoweare2.jpg": "/static/media/whoweare2.c89fef9a41d604b1c8c3.jpg",
+    "static/media/staff_feature.png": "/static/media/staff_feature.a7c6c6cedebb63aaa7fd.png",
+    "static/media/banner.png": "/static/media/banner.f1fec9aec704eff25a5a.png",
+    "static/media/simplify_feature.png": "/static/media/simplify_feature.d294701b3d07976df589.png",
+    "static/media/emergency_feature.png": "/static/media/emergency_feature.24c1839b71fb5e5ad5af.png",
+    "static/media/metric_feature.png": "/static/media/metric_feature.5f39eae850efe954134e.png",
+    "static/media/introImage1.jpg": "/static/media/introImage1.e0f925647e6c42142a8a.jpg",
+    "static/media/risk_feature.png": "/static/media/risk_feature.aff4c46ed9413f6ddd1a.png",
+    "static/media/introImage2.jpg": "/static/media/introImage2.dc2aacc267f6ebca216e.jpg",
+    "static/media/heroImage.png": "/static/media/heroImage.ca30c3bdd017db2ef491.png",
+    "static/media/logo.png": "/static/media/logo.fb7b4d79051611927e79.png",
+    "static/media/careers.jpg": "/static/media/careers.2d3af7e4a21c772784ac.jpg",
+    "static/media/privacybanner.jpg": "/static/media/privacybanner.2d3af7e4a21c772784ac.jpg",
+    "static/media/introImage.png": "/static/media/introImage.145ea59b37fd73b6c534.png",
+    "static/media/build.png": "/static/media/build.5244278711b05643ba20.png",
+    "static/media/instagram.png": "/static/media/instagram.770a093629d837845a21.png",
+    "static/media/linkedin.png": "/static/media/linkedin.ba884e1f9ad4362348c1.png",
+    "static/media/risk.png": "/static/media/risk.f39175b24719f6b34f5c.png",
+    "static/media/collab.png": "/static/media/collab.64501e66b90206a80983.png",
+    "static/media/vendor.png": "/static/media/vendor.1f98d6dd6825976c4bd6.png",
+    "static/media/group.png": "/static/media/group.fba06110b84abf02b2c3.png",
+    "static/media/incident.png": "/static/media/incident.625f1d09904d0faaeea9.png",
+    "static/media/continuity.png": "/static/media/continuity.3559c7f8995716e624bb.png",
+    "index.html": "/index.html",
+    "main.d29024d1.css.map": "/static/css/main.d29024d1.css.map",
+    "main.2e31e482.js.map": "/static/js/main.2e31e482.js.map",
+    "453.f35c0049.chunk.js.map": "/static/js/453.f35c0049.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29024d1.css",
+    "static/js/main.2e31e482.js"
+  ]
+}
