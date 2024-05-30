@@ -10,7 +10,7 @@ const Footer = () => {
           <Link to="/"><img src={logo} alt="logo" className="logo" /></Link>
           <div className="logo-description">
             <p>Need to Simplify Your Program <br/> and Make it Better?</p>
-            <Link to="mailto:someone@example.com"><button>Lets Chat</button> </Link>
+            <Link to="mailto:info@koicontinuity.com "><button>Lets Chat</button> </Link>
           </div>
         </div>
         <div className="footer-links-nav">

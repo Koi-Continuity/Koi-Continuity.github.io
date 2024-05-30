@@ -5,7 +5,7 @@ import logo from '../assets/logo.png'; // Adjust the path to your logo file
 const navLinks = [
   { id: 'features', title: 'Features', path: '/features' },
   { id: 'whoweare', title: 'Who We Are', path: '/whoweare' },
-  { id: 'contact', title: 'Contact', path: 'mailto:someone@example.com' }, // Replace with the desired email address
+  { id: 'contact', title: 'Contact', path: 'mailto:info@koicontinuity.com' }, // Replace with the desired email address
 ];
 
 const Header: React.FC = () => {
